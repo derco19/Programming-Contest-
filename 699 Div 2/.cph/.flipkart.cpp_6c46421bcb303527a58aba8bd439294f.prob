@@ -1,0 +1,1 @@
+{"name":"Local: flipkart","url":"e:\\Contest\\699 Div 2\\flipkart.cpp","tests":[{"id":1612604193587,"input":"7\n1 1 2 2 3 3 3","output":""},{"id":1612803989014,"input":"6\n2 2 3 4 2 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Contest\\699 Div 2\\flipkart.cpp","group":"local","local":true}
