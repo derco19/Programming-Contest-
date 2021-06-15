@@ -84,7 +84,45 @@ int main()
     cin>>t;
     while(t--)
     {
-        
+        ll n,k;
+        cin>>n>>k;
+        string s;
+        cin>>s;
+        ll p,q;
+        for(ll i=0;i<s.size();i++)
+        {
+            if(s[i]=='*')
+            {
+                p=i;
+                break;
+
+            }
+        }
+        q=p;
+        ll c=1;
+        for(ll i=p;i<n;i++)
+        {
+            if(s[i]=='*')
+            {
+                q=i;
+            }
+            if(i-p==k)
+            {
+                if(q!=p)
+                {
+                    p=q;
+                    c++;
+                }    
+            }
+            if(i==n-1)
+            {
+                if(q!=p)
+                {
+                    c++;
+                }
+            }
+        }
+        cout<<c<<"\n";
     }
 }
 
