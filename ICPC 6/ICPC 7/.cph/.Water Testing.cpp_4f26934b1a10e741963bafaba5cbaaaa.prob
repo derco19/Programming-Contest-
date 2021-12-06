@@ -1,0 +1,1 @@
+{"name":"Local: Water Testing","url":"e:\\Contest\\ICPC 7\\Water Testing.cpp","tests":[{"id":1625396362283,"input":"5\n0 0\n0 10\n10 10\n10 0\n5 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Contest\\ICPC 7\\Water Testing.cpp","group":"local","local":true}

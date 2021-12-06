@@ -1,0 +1,1 @@
+{"name":"Local: thanos","url":"e:\\Contest\\ICPC Amritapuri Regionals\\thanos.cpp","tests":[{"id":1628946347065,"input":"5\n3\n7 6 7 8 11 3\n2\n1 2 100 3\n2\n1 10 5 5\n2\n1 10 6 6\n2\n1 10 6 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Contest\\ICPC Amritapuri Regionals\\thanos.cpp","group":"local","local":true}
